@@ -3,5 +3,8 @@ try
 def no_pass_test_1():
     pass
 
-def test_2():
+def test_1():
     pass
+
+def test_2():
+   pass
