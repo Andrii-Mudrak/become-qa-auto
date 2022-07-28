@@ -1,2 +1,0 @@
-class RepoProvider:
-    pass
