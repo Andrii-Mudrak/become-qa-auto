@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This README.md current on  27-07-2022
 
 **Framework Structure:**
@@ -27,3 +28,8 @@ This README.md current on  27-07-2022
     Enjoy )))
 
 
+=======
+# become-qa-auto
+my way to become a qa-auto
+commit
+>>>>>>> parent of 9eabd6e (initiating of frameworks structure)
